@@ -13,8 +13,6 @@ Join my [Modding Discord](https://discord.gg/xzd5U5cNyD) for help with issues or
 
 Want to support my V Rising Mod development? 
 
-Buy/play my games! 
-
 <!-- games:start -->
 **Buy / Play My Games!**
 
